@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youjunhu working on computational tokamak plasma physics.
 - 👀 I’m interested in machine learning, numerical methods, programming, and data visulization.
 - 🌱 I’m currently developing gyrokinetic elctromagnetic PIC code for tokamak plasma turbulence simulation.
-- 💞️ I’m looking to collaborate on integrated modeling of tokamak plasma.
+- 💞️ I’m looking to collaboration on integrated modeling of tokamak plasma.
 - 📫 How to reach me: https://twitter.com/YoujunHu, youjunhu@gmail.com, yjhu@ipp.cas.cn
 
 <!---
